@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="src" path="TP0Ex1bis Voiture/src"/>
+	<classpathentry kind="src" path="TP0Ex2 Supermarche/src"/>
+	<classpathentry kind="src" path="TP0Ex3 Date/src"/>
+	<classpathentry kind="src" path="TP0Ex5 Comptes Clients/src"/>
+	<classpathentry kind="output" path="TP0Ex1bis Voiture/bin"/>
+</classpath>
